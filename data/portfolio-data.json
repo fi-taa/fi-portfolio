@@ -159,7 +159,22 @@
     }
   ],
   "credentials": {
-    "certifications": [],
+    "certifications": [
+      {
+        "name": "Supervised Machine Learning: Regression and Classification",
+        "issuer": "DeepLearning.AI & Stanford University (Coursera)",
+        "date": "May 17, 2024",
+        "logo": "/coursera-ml-supervised.png",
+        "url": "https://coursera.org/share/14adb860993e82cc22ae4cddce4bf8ce"
+      },
+      {
+        "name": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "issuer": "DeepLearning.AI & Stanford University (Coursera)",
+        "date": "July 24, 2024",
+        "logo": "/coursera-ml-unsupervised.png",
+        "url": "https://coursera.org/share/413cdfd56f857a98e99c1b6ce3f0fd1d"
+      }
+    ],
     "achievements": [
       "Semi Finalist, A2SV Generative AI for Africa Hackathon (2023)",
       "2nd Place, EtCPC 2024 with \"Beat_Them\" team"
