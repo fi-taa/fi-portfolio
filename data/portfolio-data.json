@@ -1,18 +1,18 @@
 {
   "meta": {
     "title": "Fita Wegene | Building With Purpose",
-    "description": "Portfolio website showcasing my work and skills"
+    "description": "Software Engineer | Full-Stack & AI-Driven Solutions"
   },
   "personal": {
     "name": "Fita Wegene",
-    "title": "Building With Purpose",
+    "title": "Software Engineer | Full-Stack & AI-Driven Solutions",
     "location": "Addis Ababa, Ethiopia",
     "avatar": "/profile.jpg",
     "email": "fi27ta@gmail.com",
     "phone": "+251 941 024 355",
-    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "workingHours": "Monday - Friday, 9am - 6pm EAT",
     "availableForWork": true,
-    "badges": ["UI/UX", "Product Design", "Web Development", "AI/ML"],
+    "badges": ["Full-Stack", "Next.js", "Backend", "AI/ML", "Team Lead", "UI/UX"],
     "social": [
       {
         "platform": "GitHub",
@@ -32,11 +32,11 @@
     ]
   },
   "about": {
-    "bio": "I am a software engineer with a passion for building user-friendly and efficient web applications. I am a quick learner and I am always looking for new challenges and opportunities to grow.",
+    "bio": "Full-stack developer with experience across frontend and backend development, as well as machine learning projects. Skilled in building responsive, user-friendly interfaces and developing efficient backend systems. Proven track record in building scalable applications, integrating APIs, and leveraging AI-assisted coding tools to accelerate delivery.",
     "focus": [
-      "Building intuitive and accessible digital products",
-      "Building user-friendly and efficient web applications",
-      "Building scalable and secure web applications"
+      "High-performance Next.js apps (App Router) with great UX",
+      "Scalable backend services and clean API integrations",
+      "AI/ML pipelines, model design, and product-ready AI integration"
     ],
     "languages": [
       {
@@ -49,16 +49,16 @@
         "name": "Amharic",
         "proficiency": "Native",
         "level": 100,
-        "flag": "🇪�"
+        "flag": "🇪🇹"
       },
       {
         "name": "Oromo",
         "proficiency": "Native",
         "level": 100,
-        "flag": "�🇹"
+        "flag": "🇪🇹"
       }
     ],
-    "interests": ["Web Development", "AI/ML", "Product Design", "UI/UX", "Design Systems"]
+    "interests": ["Web Development", "AI/ML", "AI Integration", "UI/UX", "Design Systems", "Team Leadership"]
   },
   "navigation": [
     {
@@ -84,57 +84,135 @@
   ],
   "experience": [
     {
-      "title": "NextJs Developer and AI Integration Expert",
-      "company": "Malama Funding - USA",
-      "period": "2025 - Present",
-      "description": "I am a software engineer at malama Funding, where I work on the development of the company's web applications. I am also responsible for the maintenance and improvement of the company's web applications.",
+      "title": "Frontend Team Lead | Next.js & AI Integration",
+      "company": "Malama Funding | Remote",
+      "period": "Jul 2025 – Present",
+      "description": "Lead frontend development with Next.js, creating responsive, high-performance interfaces and integrating AI-driven features in collaboration with backend teams.",
       "achievements": [
-        "Developed and maintained the company's web applications",
-        "Integrated AI models into the company's web applications"
+        "Lead delivery of responsive, user-friendly product experiences with Next.js",
+        "Partner with backend teams to ship AI-assisted features and smooth API integrations",
+        "Mentor teammates and coordinate tasks to keep execution fast and consistent"
       ],
-      "technologies": ["NextJs", "RKT Query", "Tailwind", "Shadcn", "Figma", "FastAPI", "Python", "AI/ML", "GCP", "Docker", "Git", "CI/CD"]
+      "technologies": ["Next.js", "React", "Tailwind CSS", "ShadCN UI", "Figma", "Node.js", "FastAPI", "Python", "AI Integration", "Docker", "GCP", "Vercel", "Git"]
     },
     {
       "title": "Full Stack Developer",
-      "company": "Goopss - Israel",
-      "period": "2025 - Present",
-      "description": "I am a software engineer at Goopss, where I work on the development of the company's web applications. I am also responsible for the maintenance and improvement of the company's web applications.",
+      "company": "Goopss | Remote",
+      "period": "Jul 2025 – Dec 2025",
+      "description": "Developed and maintained scalable web applications using Next.js and Firebase, leveraging AI-assisted coding tools for faster delivery. Implemented responsive designs, integrated APIs, and ensured high performance.",
       "achievements": [
-        "Developed and maintained the company's web applications",
-        "Worked on AI chat app"
+        "Built and shipped responsive Next.js features end-to-end",
+        "Integrated third-party APIs and AI capabilities to accelerate product delivery",
+        "Focused on performance, reliability, and clean developer experience"
       ],
-      "technologies": ["NextJs", "Tailwind","Gemini API", "OpenAI API", "Youtube API"]
+      "technologies": ["Next.js", "React", "Tailwind CSS", "Firebase", "Gemini API", "OpenAI API", "YouTube API", "Git"]
     },
     {
-      "title": "Project Manager and Full Stack Developer",
-      "company": "Zulu Tech - Ethiopia",
-      "period": "2024 - Present",
-      "description": "I am a software engineer at Zulu Tech, where I work on the development of the company's web applications. I am also responsible for the maintenance and improvement of the company's web applications.",
+      "title": "Next.js Developer & Team Lead",
+      "company": "Zulu Tech | Remote",
+      "period": "Nov 2024 – Present",
+      "description": "Lead frontend development with Next.js, ensuring responsive UI and smooth API integration. Mentor junior developers, coordinate tasks, and collaborate with backend teams to optimize performance.",
       "achievements": [
-       "Managed different teams and projects",
-
-       "Contributed on more than 4 projects"
+        "Led frontend execution across multiple projects and shipped production features",
+        "Mentored junior developers and coordinated tasks across teams",
+        "Partnered with backend teams to improve performance and integration quality"
       ],
-      "technologies": ["NextJs", "Tailwind","Jira", "Trello", "Figma", "Git", "CI/CD"]
+      "technologies": ["Next.js", "React", "Tailwind CSS", "ShadCN UI", "Jira", "Confluence", "Figma", "Git", "Vercel"]
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "iCog Labs | Part-time",
+      "period": "Apr 2024 – Jul 2024",
+      "description": "Contributed to AGI research, working on data modeling, algorithm optimization, and AI-driven automation as part of cross-functional teams exploring advanced AI techniques.",
+      "achievements": [
+        "Supported research experiments through data modeling and pipeline iteration",
+        "Optimized algorithms and contributed to AI-driven automation workflows"
+      ],
+      "technologies": ["Python", "Data Analysis", "Model Design", "AI/ML", "Git", "Colab"]
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "Dan Energy R&D | Full-time",
+      "period": "Jul 2023 – Sep 2023",
+      "description": "Led development of an AI crop recommendation system using Random Forest. Managed the ML pipeline and built a full-stack app with React, Tailwind, and Django.",
+      "achievements": [
+        "Built an end-to-end ML pipeline and shipped a Random Forest-based recommendation model",
+        "Delivered a full-stack product experience integrating the model into a web app"
+      ],
+      "technologies": ["Python", "Scikit-learn", "Random Forest", "Data Analysis", "Django", "React", "Tailwind CSS"]
+    },
+    {
+      "title": "Full-Stack Developer Intern",
+      "company": "Henok Belay General Business (HBGB) | Part-time",
+      "period": "Jul 2023 – Oct 2023",
+      "description": "Built applications with React and Tailwind; collaborated on UI/UX and API development; managed data with PostgreSQL and MongoDB.",
+      "achievements": [
+        "Built UI features with React and Tailwind and collaborated on UI/UX improvements",
+        "Worked across APIs and data layers using PostgreSQL and MongoDB"
+      ],
+      "technologies": ["React", "Tailwind CSS", "Node.js", "PostgreSQL", "MongoDB", "Git"]
     }
   ],
   "credentials": {
-    "certifications": [  ],
+    "certifications": [],
     "education": [
       {
         "degree": "Bachelor of Science in Computer Science",
         "institution": "Addis Ababa University",
-        "year": "2021- 2025",
+        "year": "2020 – Jul 2024",
         "logo": "/aau-logo.png"
       }
     ],
     "skills": [
-     "NextJs", "Tailwind","Jira", "Trello", "Figma", "Git", "CI/CD", "Python", "AI/ML", "GCP", "Docker", "Git", "CI/CD"
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "ShadCN UI",
+      "Node.js",
+      "FastAPI",
+      "Flask",
+      "Django",
+      "PostgreSQL",
+      "MongoDB",
+      "Prisma",
+      "Docker",
+      "GCP",
+      "AWS",
+      "Vercel",
+      "Git",
+      "Jira",
+      "Confluence",
+      "AI Integration",
+      "Data Analysis",
+      "Model Design"
     ]
   },
   "technicalSkills": {
-    "design": ["Figma", "Photoshop", "Illustrator"],
-    "development": ["NextJs", "Tailwind","Jira", "Trello", "Figma", "Git", "CI/CD", "Python", "AI/ML", "GCP", "Docker", "Git", "CI/CD"],
+    "design": ["UI/UX Design", "Figma", "Design Systems"],
+    "development": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "ShadCN UI",
+      "Node.js",
+      "FastAPI",
+      "Flask",
+      "Django",
+      "PostgreSQL",
+      "MongoDB",
+      "Prisma",
+      "Docker",
+      "GCP",
+      "AWS",
+      "Vercel",
+      "Git",
+      "Jira",
+      "Confluence",
+      "AI Integration",
+      "Data Analysis",
+      "Model Design"
+    ],
     "uxMethods": [
       "User Research",
       "User Testing",
@@ -144,6 +222,6 @@
       "User Interaction",
       "User Flow"
     ],
-    "softSkills": ["Team Leadership", "Project Management", "Client Communication", "Mentoring", "Presentations"]
+    "softSkills": ["Team Leadership", "Project Management", "Mentoring", "Cross-functional Collaboration", "Communication", "Delivery Ownership"]
   }
 }
