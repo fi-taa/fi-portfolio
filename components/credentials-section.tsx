@@ -49,6 +49,26 @@ export function CredentialsSection() {
             </div>
           </AnimatedSection>
 
+          {/* Achievements */}
+          {"achievements" in credentialsInfo && Array.isArray(credentialsInfo.achievements) && credentialsInfo.achievements.length > 0 && (
+            <AnimatedSection animation="fade-up" delay={150}>
+              <div className="space-y-3">
+                <h4 className="text-sm font-medium text-zinc-400 flex items-center border-b border-zinc-800 pb-2">
+                  <Award className="w-4 h-4 mr-2 text-cyan-400" />
+                  Achievements
+                </h4>
+                <div className="space-y-2">
+                  {credentialsInfo.achievements.map((achievement, index) => (
+                    <div key={index} className="flex items-start">
+                      <span className="text-cyan-400 mr-2">•</span>
+                      <p className="text-sm text-zinc-300">{achievement}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </AnimatedSection>
+          )}
+
           {/* Education */}
           <AnimatedSection animation="fade-up" delay={200}>
             <div className="space-y-4">

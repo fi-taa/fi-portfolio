@@ -5,7 +5,7 @@
   },
   "personal": {
     "name": "Fita Wegene",
-    "title": "Software Engineer | Full-Stack & AI-Driven Solutions",
+    "title": "Building With Purpose",
     "location": "Addis Ababa, Ethiopia",
     "avatar": "/profile.jpg",
     "email": "fi27ta@gmail.com",
@@ -18,6 +18,11 @@
         "platform": "GitHub",
         "url": "https://github.com/fi-taa",
         "icon": "Github"
+      },
+      {
+        "platform": "Website",
+        "url": "https://fitaa.vercel.app",
+        "icon": "Globe"
       },
       {
         "platform": "LinkedIn",
@@ -155,6 +160,10 @@
   ],
   "credentials": {
     "certifications": [],
+    "achievements": [
+      "Semi Finalist, A2SV Generative AI for Africa Hackathon (2023)",
+      "2nd Place, EtCPC 2024 with \"Beat_Them\" team"
+    ],
     "education": [
       {
         "degree": "Bachelor of Science in Computer Science",
